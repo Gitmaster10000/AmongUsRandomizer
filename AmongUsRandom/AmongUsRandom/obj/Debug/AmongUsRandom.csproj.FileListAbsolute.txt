@@ -1,0 +1,10 @@
+C:\Users\Lucas\source\repos\AmongUsRandom\AmongUsRandom\bin\Debug\AmongUsRandom.exe.config
+C:\Users\Lucas\source\repos\AmongUsRandom\AmongUsRandom\bin\Debug\AmongUsRandom.exe
+C:\Users\Lucas\source\repos\AmongUsRandom\AmongUsRandom\bin\Debug\AmongUsRandom.pdb
+C:\Users\Lucas\source\repos\AmongUsRandom\AmongUsRandom\obj\Debug\AmongUsRandom.csprojAssemblyReference.cache
+C:\Users\Lucas\source\repos\AmongUsRandom\AmongUsRandom\obj\Debug\AmongUsRandom.Properties.Resources.resources
+C:\Users\Lucas\source\repos\AmongUsRandom\AmongUsRandom\obj\Debug\AmongUsRandom.csproj.GenerateResource.cache
+C:\Users\Lucas\source\repos\AmongUsRandom\AmongUsRandom\obj\Debug\AmongUsRandom.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\AmongUsRandom\AmongUsRandom\obj\Debug\AmongUsRandom.exe
+C:\Users\Lucas\source\repos\AmongUsRandom\AmongUsRandom\obj\Debug\AmongUsRandom.pdb
+C:\Users\Lucas\source\repos\AmongUsRandom\AmongUsRandom\obj\Debug\AmongUsRandom.AmongUsRandomizer.resources
