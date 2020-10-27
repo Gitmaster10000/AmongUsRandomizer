@@ -1,0 +1,10 @@
+C:\Users\Lucas\source\repos\AURandomizer\AURandomizer\bin\Debug\AURandomizer.exe.config
+C:\Users\Lucas\source\repos\AURandomizer\AURandomizer\bin\Debug\AURandomizer.exe
+C:\Users\Lucas\source\repos\AURandomizer\AURandomizer\bin\Debug\AURandomizer.pdb
+C:\Users\Lucas\source\repos\AURandomizer\AURandomizer\obj\Debug\AURandomizer.csprojAssemblyReference.cache
+C:\Users\Lucas\source\repos\AURandomizer\AURandomizer\obj\Debug\AURandomizer.AURandomizer.resources
+C:\Users\Lucas\source\repos\AURandomizer\AURandomizer\obj\Debug\AURandomizer.Properties.Resources.resources
+C:\Users\Lucas\source\repos\AURandomizer\AURandomizer\obj\Debug\AURandomizer.csproj.GenerateResource.cache
+C:\Users\Lucas\source\repos\AURandomizer\AURandomizer\obj\Debug\AURandomizer.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\AURandomizer\AURandomizer\obj\Debug\AURandomizer.exe
+C:\Users\Lucas\source\repos\AURandomizer\AURandomizer\obj\Debug\AURandomizer.pdb
