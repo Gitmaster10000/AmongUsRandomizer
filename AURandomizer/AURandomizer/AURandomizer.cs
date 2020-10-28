@@ -90,7 +90,7 @@ namespace AURandomizer
             int iPlayer = 0;
             while (visiblePlayers.Count > 0)
             {
-                int randomNumber = rng.Next(1, visiblePlayers.Count) - 1;
+                int randomNumber = rng.Next(1, visiblePlayers.Count + 1) - 1;
                 randomizedPlayerList[iPlayer] = visiblePlayers[randomNumber];
                 visiblePlayers.RemoveAt(randomNumber);
                 iPlayer++;
